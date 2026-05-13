@@ -370,6 +370,16 @@ The reason comes first, then the consequence lands clearly.
 
 ---
 
+### Item H: Dialogue Tags — Neutral Attribution
+
+**The rule:** Replace loaded dialogue tags (muttered, screamed, hissed, whispered, etc.) with "said." The dialogue should carry how it's spoken, not the tag.
+
+**Why it matters:** Loaded tags tell the reader how to feel instead of letting them feel it. If the line reads like it's being screamed, the reader hears it as screamed. "Said" is almost always enough.
+
+**Fix:** Replace the loaded tag with "said." If the line needs the emotion spelled out, rewrite the line itself — the dialogue should do the work.
+
+---
+
 ## Plot — Opening Scene
 
 ### Does Scene One Make You Read Scene Two?

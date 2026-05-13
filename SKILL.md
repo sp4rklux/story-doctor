@@ -725,7 +725,30 @@ Scan for:
 
 ---
 
-### Item H: Find the Next Weakest Scene
+### Item H: Dialogue Tags — Neutral Attribution
+
+**The rule:** Catch places where a character "muttered," "screamed," or any similar interpretation is used instead of "said." Substitute "he said" and "she said."
+
+**Why:** It's the dialogue's job to carry how it's spoken, not the tag. If the line reads like it's being screamed, the reader hears it as screamed. The tag should be neutral — "said" is almost always enough. Loaded tags distract and tell the reader how to feel instead of letting them feel it.
+
+**Diagnosis prompt:**
+```
+Scan dialogue for non-neutral tags: muttered, screamed, whispered, yelled, hissed, snapped, crooned, etc.
+
+For each:
+- Does the dialogue itself carry the emotion? (then "said" is sufficient)
+- Does the dialogue need help? (then consider whether the line needs rewriting instead of a loaded tag)
+
+| Location | Tag used | Replace with "said"? |
+|----------|---------|---------------------|
+```
+
+**Fix template:**
+> Replace the loaded tag with "said." If the line doesn't convey the intended delivery without the tag, rewrite the line itself — the dialogue should do the work, not the attribution.
+
+---
+
+### Item I: Find the Next Weakest Scene
 
 **The instruction:** Once you've revised or cut the weakest scene, find your *new* weakest scene. Keep applying pressure.
 
