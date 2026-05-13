@@ -351,6 +351,25 @@ The reason comes first, then the consequence lands clearly.
 
 ---
 
+### Item G: Purple Prose — Strip the Excess
+
+**What it is:** Writing that is overblown. Overwrought attempts at emotion. Turns off editors and readers almost immediately.
+
+**Examples:**
+- *"The cry of a soul in torment, swept by a tide of anger and outrage"*
+- *"Terror plucked at her taut nerves"*
+- *"Jagged laughter tore at her throat"*
+- *"Ghastly red spatterings, vicious red-streaked gobbets of his brains"*
+- *"Fierce rending triumph"*
+
+**Root cause:** Sentimentality — an excess of response to a stimulus. Makes writing "flowery."
+
+**The rule:** Your job is to stimulate emotions in the reader. Excessive response turns the reader off — just as it does in real life. The writer performing emotion breaks the fictional dream faster than almost anything else.
+
+**Fix:** Strip back. Replace overblown phrases with the specific, concrete image that earns the emotion. The reader will feel it without being performed at.
+
+---
+
 ## Plot — Opening Scene
 
 ### Does Scene One Make You Read Scene Two?

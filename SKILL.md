@@ -691,7 +691,41 @@ Mark for review:
 
 ---
 
-### Item G: Find the Next Weakest Scene
+### Item G: Purple Prose — Strip the Excess
+
+**What it is:** Writing that is overblown. Attempts to be emotional but lands as overwrought. Turns off editors and readers almost immediately.
+
+**Examples of purple prose:**
+- *"The cry of a soul in torment, swept by a tide of anger and outrage"*
+- *"Terror plucked at her taut nerves"*
+- *"Jagged laughter tore at her throat"*
+- *"Ghastly red spatterings, vicious red-streaked gobbets of his brains"*
+- *"Fierce rending triumph"*
+
+**The problem:** These phrases are trying so hard to be emotional that they become absurd. The writer is performing emotion rather than creating it in the reader.
+
+**Root cause: sentimentality.** An excess of response to a stimulus. It makes writing "flowery" — overdone, out of proportion to what the scene actually calls for.
+
+**Your job:** Stimulate emotions in the reader. Excessive response turns the reader off — just as it does in real life. One bad piece of purple prose can break the fictional dream for the entire manuscript.
+
+**Diagnosis prompt:**
+```
+Scan for:
+- Phrases doing too much work to sound emotional
+- Adjectives stacked on adjectives (taut nerves, jagged laughter, fierce rending)
+- Abstract nouns doing concrete work (cry of a soul, tide of anger)
+- Any line that sounds like it's trying to be poetic rather than being poetic
+
+| Location | Phrase | What's overwrought? |
+|----------|--------|---------------------|
+```
+
+**Fix template:**
+> Strip it back. Replace the overblown phrase with the specific, concrete image that earns the emotion. If "jagged laughter tore at her throat" — what does that actually look like? Say that. The reader will feel it without the writer performing feeling at them.
+
+---
+
+### Item H: Find the Next Weakest Scene
 
 **The instruction:** Once you've revised or cut the weakest scene, find your *new* weakest scene. Keep applying pressure.
 
