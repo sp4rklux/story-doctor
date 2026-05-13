@@ -302,6 +302,31 @@ Cut words, phrases, sentences, paragraphs, pages, or whole scenes that seem abso
 
 **Rule 4:** Mark every cliché for exclusion.
 
+**Rule 4:** Mark every cliché for exclusion.
+
+---
+
+### Item E: Word Order — Transposition for Emphasis
+
+**The principle:** Word order shapes emphasis. Moving words, phrases, or clauses changes what the sentence emphasizes — the end of the sentence carries the most weight.
+
+**Dialogue attribution:**
+- Put attribution first if the reader might lose track of who's speaking
+- If clear, attribution can follow or be omitted
+
+**Transposition:**
+- In a book-length manuscript, transpositions happen hundreds of times
+- Read for where the sentence's natural emphasis lands
+- Ask: does this match what I'm actually trying to say?
+
+**Example — unedited:**
+> *"Josephine Japhet of course knew her son was a reader in a universe of listeners to rock music."*
+
+**Transposed:**
+> *"Josephine Japhet, of course, knew why, in a universe of listeners to rock music, her son was a reader."*
+
+The emphasis shifts from rock music to her son being a reader.
+
 ---
 
 ## Plot — Opening Scene

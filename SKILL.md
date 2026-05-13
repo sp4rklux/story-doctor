@@ -608,7 +608,49 @@ Scan a chapter for:
 
 ---
 
-### Item E: Find the Next Weakest Scene
+### Item E: Word Order — Emphasis and Clarity
+
+**The principle:** Word order shapes emphasis. What lands at the end of a sentence carries the most weight. Moving words, phrases, or clauses changes what the reader focuses on.
+
+**Rule 1: Dialogue attribution**
+If there's any chance the reader won't know who is speaking at that moment, put the attribution first:
+
+> *George said, "they treating you okay?"*
+
+If it's already clear who is speaking, the attribution can follow or be omitted:
+
+> *"They treating you okay?" George said.*
+
+**Rule 2: Transposition for emphasis**
+Move elements to shift what the sentence emphasizes. The end of the sentence is where the punch lands.
+
+**Example — unedited:**
+> *"Josephine Japhet of course knew her son was a reader in a universe of listeners to rock music."*
+
+Emphasis falls on rock music.
+
+**Transposed:**
+> *"Josephine Japhet, of course, knew why, in a universe of listeners to rock music, her son was a reader."*
+
+Emphasis shifts to her son being a reader — which was the actual point.
+
+**The discipline:** In a book-length manuscript, transpositions happen hundreds of times. Read for where the sentence's natural emphasis lands — and whether it matches what you're actually trying to say.
+
+**Diagnosis prompt:**
+```
+Read each scene aloud. For each sentence, ask:
+- Who is the subject? Is it in the right position?
+- Where does the sentence end? Does that landing word carry the right weight?
+- For dialogue: is attribution placement clear? Could the reader lose track of who's speaking?
+- Does the word order match the intended emphasis, or does transposition need to shift it?
+
+| Sentence | Current landing | Intended emphasis | Transpose? |
+|----------|-----------------|-------------------|------------|
+```
+
+---
+
+### Item F: Find the Next Weakest Scene
 
 **The instruction:** Once you've revised or cut the weakest scene, find your *new* weakest scene. Keep applying pressure.
 
