@@ -575,6 +575,35 @@ Stein's recommended sequence for the cutting pass:
 
 ---
 
+### Item E: Pace — Keep the Story Moving
+
+**The rule:** Unless you are consciously trying to slow things down between fast-moving scenes, be relentless in keeping the story moving forward.
+
+**The signal:** If you find it bogging down at any point — something is wrong. Causes can include: too slow a pace, not enough happening, a scene that has lost its engine.
+
+**The discipline:** If you don't see an immediate fix, make a note of it — a GitHub issue, a task, whatever system the writer uses — and move on. Come back to those places later.
+
+**This is triage.** The goal of the revision session is to move through the manuscript with forward momentum, not solve every problem in real time. Flag it, note it, keep moving. Fixes come in a later pass.
+
+**Diagnosis prompt:**
+```
+Browse the manuscript for every place where the story bogs down — where the pace slows noticeably, where the reader might start to drift.
+
+For each bog-down point:
+- Do you see an immediate fix? (apply if obvious)
+- Is the cause unclear? (note it as a candidate for later revision)
+
+| Location | What flags | Immediate fix? | Note for later? |
+|----------|------------|----------------|------------------|
+```
+
+**Fix template:**
+> If the pace is slow and you can't find a fix quickly — note the problem, note your guess about what's wrong, and move on. Don't let the revision session stall. The manuscript gets a second pass.
+
+**Exception:** Deliberate slow scenes are valid — they create contrast and allow the reader to breathe. The rule only applies when the slowdown is unintentional.
+
+---
+
 ### Plot Prompt 1: Does Scene One Make You Read Scene Two?
 
 **The test — read scene one, then ask yourself:**

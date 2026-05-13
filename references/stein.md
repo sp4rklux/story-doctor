@@ -248,6 +248,20 @@ Cut words, phrases, sentences, paragraphs, pages, or whole scenes that seem abso
 
 **Test:** Read aloud. Listen for sections where rhythm goes flat.
 
+**Test:** Read aloud. Listen for sections where rhythm goes flat.
+
+---
+
+### Item E: Pace — Triage
+
+**The rule:** Unless you are consciously slowing down between fast-moving scenes, be relentless in keeping the story moving forward.
+
+**The signal:** If the story bogs down at any point — something is wrong. Causes can include: too slow a pace, not enough happening, a scene that has lost its engine.
+
+**The discipline:** If you don't see an immediate fix, make a note of it and move on. Come back to those places later. This is triage — the goal is to move through the manuscript with forward momentum, not solve every problem in real time.
+
+**Exception:** Deliberate slow scenes are valid — they create contrast and allow the reader to breathe. Only flag unintentional slowdowns.
+
 ---
 
 ## Plot — Opening Scene
