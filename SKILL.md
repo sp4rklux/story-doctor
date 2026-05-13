@@ -454,6 +454,72 @@ Stein's Chapter 15 contains a detailed motivation unit-testing methodology. Once
 
 ---
 
+## Second Pass — Cutting
+
+After the motivation audit, before the plot pass: cutting. Tightening the manuscript is a separate discipline from rewriting — the goal is excision, not revision.
+
+### The First Rule
+
+> **When in doubt, do not change anything.** You must be certain it must go.
+
+**When you find something questionable:** instead of changing it, make a note for further consideration — a GitHub issue, a task, whatever system the writer uses. This keeps the revision session focused and prevents the spiral of rewriting without resolution.
+
+---
+
+### Item A: Between-the-Scenes Material
+
+**First target: offstage recounting of actions not seen.** The manuscript material that bridges scenes — the passages where the writer recounts events that happened offstage, or summarizes what happened between scenes.
+
+**The rule:** Eliminate as many of these as possible, or transform them into active, interesting prose that earns its place.
+
+**Why it matters:** Offstage recounting is the most common source of flat, inert prose in a draft. The writer is explaining what happened rather than showing it. The reader experiences the summary as summary — no tension, no stakes, no scene.
+
+**Fix options:**
+1. **Cut entirely** — if the event doesn't need to be shown, it may not need to be mentioned
+2. **Dramaticize** — make the recounting a scene in itself, rendered in real time with tension and stakes
+3. **Compress further** — reduce a whole sequence of offscreen events to a single image or line that lands with force
+
+> *For clarification on rendering vs. summarizing: see references/stein.md and references/gotham.md.*
+
+**Diagnosis prompt:**
+```
+Browse the manuscript for every passage that bridges two scenes — the "Meanwhile, back at..." material, the retrospectives, the offstage recounting.
+
+For each such passage:
+- Does this advance the story in a way the reader needs?
+- Could it be cut with no loss to the reader's understanding?
+- If kept, does it have tension and stakes of its own, or is it inert summary?
+
+| Passage | Purpose | Could cut? | Has tension? |
+|---------|---------|------------|---------------|
+
+Signal: Red for inert summary that exists only to fill gaps. Yellow for passages with some purpose but without tension.
+```
+
+---
+
+### Item B: Find the Next Weakest Scene
+
+**The instruction:** Once you've revised or cut the weakest scene, find your *new* weakest scene. Keep applying pressure.
+
+> *"Now look at what you've got left. What's the next scene that doesn't earn its place? Same question — would the book be stronger without it?"*
+
+**Repeat until:** The remaining scenes all pull their weight. The manuscript is tighter, the pacing sharper, the dead weight removed.
+
+---
+
+### Item C: The Cutting Pass — A Sequence
+
+Stein's recommended sequence for the cutting pass:
+1. Remove between-scenes material that is inert or summary
+2. Tighten the remaining bridging passages
+3. Identify and cut any scene that doesn't earn its place
+4. Find the next weakest scene — repeat
+
+**Key discipline:** Do not revise while cutting. If something is questionable, note it and move on. The goal is a tighter manuscript, not a rewritten one.
+
+---
+
 ## Second Pass — Plot
 
 *After character work, put the manuscript down for a day or two. Let it cool. Then start the second pass: plot.*

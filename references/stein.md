@@ -171,6 +171,59 @@ Stein's Chapter 15 contains a detailed motivation unit-testing methodology.
 
 ---
 
+## Cutting — The Tightening Process
+
+**First rule: when in doubt, do not change anything.** You must be certain it must go. The goal is to tighten, not to rewrite.
+
+**When something is questionable:** make a note for further consideration — a GitHub issue, a task, whatever system the writer uses. This keeps the revision session focused and prevents the spiral of rewriting without resolution.
+
+---
+
+### Item A: Between-the-Scenes Material
+
+**First target: offstage recounting of actions not seen.** The passages that bridge scenes — where the writer recounts events that happened offstage, or summarizes what happened between scenes.
+
+**The rule:** Eliminate as many of these as possible, or transform them into active, interesting prose that earns its place.
+
+**Why it matters:** Offstage recounting is the most common source of flat, inert prose in a draft. The writer explains what happened rather than showing it. The reader experiences it as summary — no tension, no stakes, no scene.
+
+**Fix options:**
+1. **Cut entirely** — if the event doesn't need to be shown, it may not need to be mentioned
+2. **Dramaticize** — make the recounting a scene in itself, rendered in real time with tension and stakes
+3. **Compress further** — reduce a whole sequence of offscreen events to a single image or line that lands with force
+
+**Diagnosis:** Browse the manuscript for every passage that bridges two scenes — "Meanwhile, back at..." material, retrospectives, offstage recounting.
+
+```
+| Passage | Purpose | Could cut? | Has tension? |
+|---------|---------|------------|---------------|
+
+Signal: Red for inert summary that exists only to fill gaps.
+```
+
+---
+
+### Item B: Find the Next Weakest Scene
+
+Once you've revised or cut the weakest scene, find your *new* weakest scene. Keep applying pressure.
+
+> *"What's the next scene that doesn't earn its place? Same question — would the book be stronger without it?"*
+
+**Repeat until:** The remaining scenes all pull their weight.
+
+---
+
+### Item C: The Cutting Sequence
+
+1. Remove between-scenes material that is inert or summary
+2. Tighten the remaining bridging passages
+3. Identify and cut any scene that doesn't earn its place
+4. Find the next weakest scene — repeat
+
+**Key discipline:** Do not revise while cutting. If something is questionable, note it and move on. The goal is a tighter manuscript, not a rewritten one.
+
+---
+
 ## Plot — Opening Scene
 
 ### Does Scene One Make You Read Scene Two?
