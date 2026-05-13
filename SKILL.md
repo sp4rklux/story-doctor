@@ -636,6 +636,18 @@ Emphasis shifts to her son being a reader — which was the actual point.
 
 **The discipline:** In a book-length manuscript, transpositions happen hundreds of times. Read for where the sentence's natural emphasis lands — and whether it matches what you're actually trying to say.
 
+**Example 2 — consequence before cause (unclear):**
+> *"If Paul goes to jail, I won't have anywhere. I can't pay the mortgage on my own."*
+
+The phrase "I won't have anywhere" is vague — the reader doesn't know anywhere what until the next sentence lands.
+
+**Transposed — cause before consequence:**
+> *"If Paul goes to jail, I can't pay the mortgage on my own. I won't have anywhere."*
+
+Now the reader gets the reason first, then the consequence lands clearly. Logic flows.
+
+**The rule:** Consequence before cause is often confusing. Cause before consequence flows naturally. Transpose until the logic is obvious.
+
 **Diagnosis prompt:**
 ```
 Read each scene aloud. For each sentence, ask:
@@ -643,6 +655,7 @@ Read each scene aloud. For each sentence, ask:
 - Where does the sentence end? Does that landing word carry the right weight?
 - For dialogue: is attribution placement clear? Could the reader lose track of who's speaking?
 - Does the word order match the intended emphasis, or does transposition need to shift it?
+- When a phrase or clause feels vague on its own — does it need something before it to give it context? (cause before consequence)
 
 | Sentence | Current landing | Intended emphasis | Transpose? |
 |----------|-----------------|-------------------|------------|

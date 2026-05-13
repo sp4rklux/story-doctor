@@ -325,7 +325,17 @@ Cut words, phrases, sentences, paragraphs, pages, or whole scenes that seem abso
 **Transposed:**
 > *"Josephine Japhet, of course, knew why, in a universe of listeners to rock music, her son was a reader."*
 
-The emphasis shifts from rock music to her son being a reader.
+**Example 2 — consequence before cause (unclear):**
+> *"If Paul goes to jail, I won't have anywhere. I can't pay the mortgage on my own."*
+
+The phrase "I won't have anywhere" is vague — the reader doesn't know anywhere what until the next sentence lands.
+
+**Transposed — cause before consequence:**
+> *"If Paul goes to jail, I can't pay the mortgage on my own. I won't have anywhere."*
+
+The reason comes first, then the consequence lands clearly.
+
+**The rule:** Consequence before cause is often confusing. Cause before consequence flows naturally. Transpose until the logic is obvious.
 
 ---
 
