@@ -748,7 +748,39 @@ For each:
 
 ---
 
-### Item I: Find the Next Weakest Scene
+### Item I: Dialogue Sequence
+
+**Rule 1: Fragment, don't complete.** If your characters usually speak in complete sentences, fix it so they don't. Real speech is interrupted, trailed off, half-finished. Complete sentences in dialogue are a performance of speech, not speech.
+
+**Rule 2: Enough dialogue.** Dialogue makes scenes visible — it grounds the reader in the moment. If a scene lacks dialogue, it tends to become abstract narration instead of rendered experience.
+
+**Rule 3: Confrontational enough?** Dialogue is a site of negotiation, resistance, and hidden agendas. If the dialogue is too polite, too cooperative, or too easily resolved — it has no pulse. Push characters against each other.
+
+**Rule 4: Break up long dialogue.** If any dialogue runs longer than three sentences, break it up with an interjection from another character — or a thought, an action, a look. Length without interruption feels like a monologue, not a conversation.
+
+**Rule 5: Responses should be oblique, at least from time to time.** Characters don't answer directly. They deflect, redirect, answer a different question, or say something adjacent to what was asked. Oblique responses create friction; direct responses flatten it.
+
+**Rule 6: Compare dialogue exchanges.** If any exchange seems weak or wrong compared to others, mark it for improvement or cutting. A single flat exchange breaks the fictional dream in the middle of an otherwise alive conversation.
+
+**Diagnosis prompt:**
+```
+Scan a dialogue sequence for:
+- Long uninterrupted speeches (3+ sentences without interjection)
+- Too-complete sentences (characters always speaking in full)
+- Polite or easily resolved exchanges (where's the friction?)
+- Characters answering directly when oblique would create more tension
+- One exchange that feels flat compared to the rest
+
+| Location | Issue | Action |
+|----------|-------|--------|
+```
+
+**Fix template:**
+> Break it up. Insert an interjection, a gesture, a silence. Make the character answer sideways if the direct answer flattens the exchange. The goal is conversation that feels alive — not transcriptions of what characters would say if they were performing speech.
+
+---
+
+## Plot — Opening Scene
 
 **The instruction:** Once you've revised or cut the weakest scene, find your *new* weakest scene. Keep applying pressure.
 

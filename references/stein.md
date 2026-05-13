@@ -380,6 +380,22 @@ The reason comes first, then the consequence lands clearly.
 
 ---
 
+### Item I: Dialogue Sequence
+
+**Rule 1:** Fragment, don't complete. If characters usually speak in complete sentences, fix it so they don't. Real speech is interrupted, trailed, half-finished.
+
+**Rule 2:** Enough dialogue. Dialogue makes scenes visible — grounds the reader in the moment.
+
+**Rule 3:** Confrontational enough? Dialogue is negotiation, resistance, hidden agendas. If too polite or easily resolved, it has no pulse.
+
+**Rule 4:** Break up long dialogue. If any dialogue runs longer than three sentences, insert an interjection — a thought, an action, another character's response.
+
+**Rule 5:** Oblique responses, at least from time to time. Characters don't answer directly. They deflect, redirect, answer a different question.
+
+**Rule 6:** Compare exchanges. If one seems weak compared to others, mark for improvement or cutting.
+
+---
+
 ## Plot — Opening Scene
 
 ### Does Scene One Make You Read Scene Two?
