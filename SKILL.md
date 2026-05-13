@@ -780,6 +780,32 @@ Scan a dialogue sequence for:
 
 ---
 
+### Item J: Visual Texture — Something Visual on Every Page
+
+**The rule:** Make sure there is something visual on every page. Two or more consecutive pages without a visual element is a flag — return to it later and introduce a visual element.
+
+**The larger problem:** Consecutive pages without visuals usually signals too much narrative summary where an immediate scene is needed. The writer is telling the reader what happened instead of showing it.
+
+**Why it matters:** Fiction is visual. When the prose goes abstract and summary-heavy for more than a page, the reader loses their footing in the scene. A continuous string of summary without visible image makes the manuscript feel like a synopsis rather than a story.
+
+**Diagnosis prompt:**
+```
+Browse the manuscript. Mark every page that lacks a visual element — a concrete image, a physical detail, a visible action.
+
+If you find two consecutive pages without visuals:
+- Is this section summary where a scene is needed?
+- Is there a way to render this material visually instead of narrating it?
+- Could this be cut or compressed to a single image?
+
+| Page | Has visual? | Issue type |
+|------|------------|------------|
+```
+
+**Fix template:**
+> Replace narrative summary with an immediate scene — or compress it to a single image that carries the weight of what happened. If the page has no visual, the reader has nowhere to see the story.
+
+---
+
 ## Plot — Opening Scene
 
 **The instruction:** Once you've revised or cut the weakest scene, find your *new* weakest scene. Keep applying pressure.

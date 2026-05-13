@@ -396,6 +396,16 @@ The reason comes first, then the consequence lands clearly.
 
 ---
 
+### Item J: Visual Texture
+
+**The rule:** Something visual on every page. Two or more consecutive pages without a visual element is a flag.
+
+**The larger problem:** Too much narrative summary where an immediate scene is needed. The writer is telling what happened instead of showing it.
+
+**Why it matters:** Fiction is visual. Abstract summary for more than a page breaks the reader's footing in the scene.
+
+---
+
 ## Plot — Opening Scene
 
 ### Does Scene One Make You Read Scene Two?
