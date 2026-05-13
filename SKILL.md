@@ -604,6 +604,29 @@ For each bog-down point:
 
 ---
 
+### Item F: Author Voice Bleed
+
+**The signal:** Catching the author talking at the reader — or mixing points of view within a passage.
+
+**What it is:** The narrative voice shifts from the story's established perspective to the author's own commentary or presence. Or: the point of view shifts without a scene break, creating confusion about whose head the reader is in.
+
+**The fix:** Mark the section and note it for Chapter 13 guidance. Do not attempt to fix in the revision session — this requires the deeper POV methodology in Chapter 13.
+
+> *See references/stein.md — Chapter 13 reference pending.*
+
+**Diagnosis prompt:**
+```
+Browse for passages where:
+- The author seems to address the reader directly (commentary, editorial intrusion)
+- The point of view shifts mid-passage without a scene break
+- The narrative voice sounds like the author rather than the narrator
+
+| Location | Issue type | Needs Chapter 13? |
+|----------|------------|---------------------|
+```
+
+---
+
 ### Plot Prompt 1: Does Scene One Make You Read Scene Two?
 
 **The test — read scene one, then ask yourself:**
@@ -636,3 +659,4 @@ For each bog-down point:
 - [#5 — capture Chapter 15 motivation methodology](https://github.com/lux-sp4rk/marina/issues/5)
 - [#6 — add Gotham Writers scene structure patterns](https://github.com/lux-sp4rk/marina/issues/6)
 - [#7 — add dialogue and voice antipatterns from Gotham](https://github.com/lux-sp4rk/marina/issues/7)
+- [#8 — capture Chapter 13 (POV / talking at the reader / mixing points of view)](https://github.com/lux-sp4rk/marina/issues/8)

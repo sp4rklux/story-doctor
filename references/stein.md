@@ -264,6 +264,21 @@ Cut words, phrases, sentences, paragraphs, pages, or whole scenes that seem abso
 
 ---
 
+## Chapter 13 — TODO: POV and Author Voice Bleed
+
+**Status:** Not yet extracted. Stein's Chapter 13 covers point of view and the problem of "talking at the reader" — narrative voice that intrudes, or POV that shifts without a scene break.
+
+**Signal to flag:**
+- Author talking directly to the reader
+- Mixing points of view within a passage
+- Narrative voice that sounds like the author rather than the established narrator
+
+**When to use:** When you catch these in a manuscript, mark the section and save for Chapter 13 guidance. Don't attempt to fix in the revision session.
+
+**GitHub issue:** [#8 — capture Chapter 13 (POV / talking at the reader / mixing points of view)](https://github.com/lux-sp4rk/marina/issues/8)
+
+---
+
 ## Plot — Opening Scene
 
 ### Does Scene One Make You Read Scene Two?
