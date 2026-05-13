@@ -339,6 +339,18 @@ The reason comes first, then the consequence lands clearly.
 
 ---
 
+### Item F: Precision — The Right Word
+
+**The discipline:** As you read through, look for imprecision — when the word you used is not exactly the word you needed.
+
+**Two tools:** Consult a dictionary. Consult a thesaurus.
+
+**Why it matters:** Approximate words pass through drafts easily. The writer knows what they meant, so the wrong word feels right. But the reader doesn't have that context. If the word isn't exact, the sentence loses precision — and sometimes meaning entirely.
+
+**The rule:** Don't settle for close. Look it up. The right word is usually not the first synonym that appears.
+
+---
+
 ## Plot — Opening Scene
 
 ### Does Scene One Make You Read Scene Two?

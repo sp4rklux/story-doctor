@@ -663,7 +663,35 @@ Read each scene aloud. For each sentence, ask:
 
 ---
 
-### Item F: Find the Next Weakest Scene
+### Item F: Precision — The Right Word
+
+**The discipline:** As you read through, look for imprecision — when the word you used is not exactly the word you needed.
+
+**Two tools:** Consult a dictionary. Consult a thesaurus.
+
+**Why it matters:** Approximate words pass through drafts easily. The writer knows what they meant, so the wrong word feels right. But the reader doesn't have that context. If the word isn't exact, the sentence loses precision — and sometimes meaning entirely.
+
+**The test:** Read each flagged passage and ask: is this the exact word, or a close enough word? If there's any gap — look it up.
+
+**Diagnosis prompt:**
+```
+Browse for words that feel slightly off — words doing approximate work when a precise word might land harder.
+
+Mark for review:
+- Words used in a non-standard sense
+- Words that are close but not quite right
+- Words where a more specific term might exist
+
+| Location | Word used | Potential precision issue |
+|----------|-----------|--------------------------|
+```
+
+**Fix template:**
+> Don't settle for close. Look it up. A thesaurus gives you options; a dictionary tells you what the options actually mean. The right word is usually not the first synonym that appears.
+
+---
+
+### Item G: Find the Next Weakest Scene
 
 **The instruction:** Once you've revised or cut the weakest scene, find your *new* weakest scene. Keep applying pressure.
 
