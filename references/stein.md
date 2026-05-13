@@ -262,20 +262,29 @@ Cut words, phrases, sentences, paragraphs, pages, or whole scenes that seem abso
 
 **Exception:** Deliberate slow scenes are valid — they create contrast and allow the reader to breathe. Only flag unintentional slowdowns.
 
+### Item F: Author Voice Bleed / POV
+
+**Signal:** Catching the author talking at the reader — or mixing points of view within a passage.
+
+**The fix:** Mark the section and note it for Chapter 13 guidance. Do not attempt to fix in the revision session.
+
+**GitHub issue:** [#8 — capture Chapter 13](https://github.com/lux-sp4rk/marina/issues/8)
+
 ---
 
-## Chapter 13 — TODO: POV and Author Voice Bleed
+### Item G: Stress and Escalation
 
-**Status:** Not yet extracted. Stein's Chapter 13 covers point of view and the problem of "talking at the reader" — narrative voice that intrudes, or POV that shifts without a scene break.
+**The rule:** Fiction deals with the most stressful moments of the characters' lives. If pressure never builds, the story has no engine.
 
-**Signal to flag:**
-- Author talking directly to the reader
-- Mixing points of view within a passage
-- Narrative voice that sounds like the author rather than the established narrator
+**Two questions:**
+1. Are your characters under stress from time to time?
+2. Does the stress increase?
 
-**When to use:** When you catch these in a manuscript, mark the section and save for Chapter 13 guidance. Don't attempt to fix in the revision session.
+**Why it matters:** A story where characters face manageable challenges is a story that never commits. The reader senses when stakes are artificially constrained.
 
-**GitHub issue:** [#8 — capture Chapter 13 (POV / talking at the reader / mixing points of view)](https://github.com/lux-sp4rk/marina/issues/8)
+**Signal:** Red if stress doesn't meaningfully increase from opening to climax.
+
+**Fix:** Find the midpoint. What happens here that raises the cost? If the pressure doesn't build there, it won't build anywhere.
 
 ---
 

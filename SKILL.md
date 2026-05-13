@@ -283,6 +283,38 @@ Signal: Red if any dimension is weak or absent.
 
 ---
 
+### Step 8: Stress and Escalation
+
+**The rule:** Fiction deals with the most stressful moments of the characters' lives. If the pressure never builds, the story has no engine.
+
+**Two questions:**
+1. **Are your characters under stress from time to time?** Not just initial difficulty — genuine, escalating pressure that forces them to react.
+2. **Does the stress increase?** The midpoint should raise the stakes. The climax should demand everything. If stress plateaus, the story plateaus.
+
+**Why it matters:** A story where characters face manageable challenges is a story that never commits. The reader can sense when the stakes are artificially constrained — when the writer is protecting the characters from the consequences of their own actions.
+
+**Diagnosis prompt:**
+```
+Track stress across the manuscript:
+- Where does stress first appear in the story?
+- Does it escalate from that point forward, or does it flatten?
+- At the midpoint: has the pressure increased from the opening?
+- At the climax: is this the highest-pressure moment of the story?
+
+| Act | Stress level | What's driving it? |
+|-----|-------------|-------------------|
+| Opening | | |
+| Midpoint | | |
+| Climax | | |
+
+Signal: Red if stress doesn't meaningfully increase from opening to climax. Yellow if the escalation is uneven or if the climax doesn't feel like the highest-pressure moment.
+```
+
+**Fix template:**
+> If stress isn't escalating, find the midpoint and ask: what happens here that raises the cost? What does the character now have to face that they weren't facing before? The midpoint is where the story commits — if the pressure doesn't build there, it won't build anywhere.
+
+---
+
 ## Scene Evaluation
 
 These prompts shift from character diagnosis to scene-level craft. Work through them in order.
