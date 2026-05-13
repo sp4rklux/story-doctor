@@ -286,6 +286,22 @@ Cut words, phrases, sentences, paragraphs, pages, or whole scenes that seem abso
 
 **Fix:** Find the midpoint. What happens here that raises the cost? If the pressure doesn't build there, it won't build anywhere.
 
+**Key discipline:** Do not revise while cutting. If something is questionable, note it and move on. The goal is a tighter manuscript, not a rewritten one.
+
+---
+
+### Item D: Trim the Prose
+
+**Every word earns its place or it goes.**
+
+**Rule 1:** Cut unnecessary adjectives and adverbs. Cut "very." Cut "poor" for everything but poverty.
+
+**Rule 2:** Don't say the same thing twice in different words. Pick the stronger phrase, cut the other.
+
+**Rule 3:** Watch for repeated uncommon words within a few pages — use a synonym.
+
+**Rule 4:** Mark every cliché for exclusion.
+
 ---
 
 ## Plot — Opening Scene

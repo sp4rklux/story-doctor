@@ -579,7 +579,36 @@ Read a section aloud. Listen for:
 
 ---
 
-### Item D: Find the Next Weakest Scene
+### Item D: Trim the Prose
+
+**Every word earns its place or it goes.**
+
+**Rule 1: Cut unnecessary adjectives and adverbs.** Especially: cut "very." Cut "poor" for everything but poverty. If the word doesn't add meaning the sentence can't live without, it goes.
+
+**Rule 2: Don't say the same thing twice in different words.** If two phrases convey the same idea, pick the stronger one and cut the other. Redundancy is dead weight.
+
+**Rule 3: Watch for repeated uncommon words.** If you find yourself using the same distinctive word twice within a few pages, reach for a synonym. Repetition of a rare word sticks out like a broken note.
+
+**Rule 4: Mark every cliché for exclusion.** Clichés are borrowed language — they arrived in the manuscript without earning their place. Flag them. Then decide: rewrite with fresh language, or cut entirely.
+
+**Diagnosis prompt:**
+```
+Scan a chapter for:
+- Adjectives and adverbs that could be removed without losing meaning
+- "Very" — always suspect
+- Repeated words (common or uncommon) within a few pages
+- Clichés — phrases that feel familiar rather than fresh
+
+| Location | Issue | Action |
+|----------|-------|--------|
+```
+
+**Fix template:**
+> If a word is doing no real work — if it's adding texture without meaning, or repeating what's already clear — cut it. Every unnecessary word is a tax on the reader's attention.
+
+---
+
+### Item E: Find the Next Weakest Scene
 
 **The instruction:** Once you've revised or cut the weakest scene, find your *new* weakest scene. Keep applying pressure.
 
