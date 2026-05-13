@@ -224,6 +224,32 @@ Once you've revised or cut the weakest scene, find your *new* weakest scene. Kee
 
 ---
 
+## Cutting — Item B and C
+
+### Item B: Flags and Fails
+
+Cut words, phrases, sentences, paragraphs, pages, or whole scenes that seem absolutely not necessary.
+
+**The signal: your own attention flags.** When you find yourself slowing down, rereading a passage, or feeling the prose go slack — that's usually a sign something needs to be revised or cut. If the writer's attention flags, the reader's will too.
+
+**Rule:** Be ruthless with flags. If your attention flags on page 50, the reader's will flag too.
+
+---
+
+### Item C: Sentence Rhythm
+
+**The problem:** All sentences approximately the same length produces monotony.
+
+**The fix:** Vary sentence length deliberately. Follow an especially long sentence with a short, even abrupt sentence. Create contrast.
+
+**The trap:** Don't overcorrect. Short-long-short-long can get almost as monotonous as all long or all short. The variation should feel natural, not metronomic.
+
+**The mellifluous cadence trap:** One student wrote in a naturally flowing cadence — it was her greatest fault. An unbroken mellifluous cadence, lovely for a few sentences, will put a reader to sleep if kept up.
+
+**Test:** Read aloud. Listen for sections where rhythm goes flat.
+
+---
+
 ## Plot — Opening Scene
 
 ### Does Scene One Make You Read Scene Two?

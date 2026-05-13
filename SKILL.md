@@ -498,7 +498,56 @@ Signal: Red for inert summary that exists only to fill gaps. Yellow for passages
 
 ---
 
-### Item B: Find the Next Weakest Scene
+### Item B: Flags and Fails — Cut What Doesn't Earn Its Place
+
+Cut words, phrases, sentences, paragraphs, pages, or whole scenes that seem absolutely not necessary.
+
+**The signal: your own attention flags.** When you find yourself slowing down, rereading a passage, or feeling the prose go slack — that's usually a sign something needs to be revised or cut. If the writer's attention flags while reading their own manuscript, the reader's will too.
+
+**Diagnosis prompt:**
+```
+Browse the manuscript and note every place where your attention flags — where you slow down, lose momentum, or feel the prose going slack.
+
+For each flag:
+- Is this a cutting opportunity? (tighten or remove)
+- Is this a revision opportunity? (rewrite to restore momentum)
+- Is this just a rough patch that needs a lighter edit?
+
+| Passage | Flag type | Action |
+|---------|-----------|--------|
+```
+
+**Rule:** Be ruthless with flags. If your attention flags on page 50 while reading, the reader's will flag too. And readers who flag don't always come back.
+
+---
+
+### Item C: Sentence Rhythm — Vary the Length
+
+**The problem:** If all sentences are approximately the same length, the effect is monotonous. The prose becomes a flatline — readable, but uneventful.
+
+**The fix:** Vary sentence length deliberately. Follow an especially long sentence with a short, even abrupt sentence. Create contrast in rhythm.
+
+**The trap:** Don't overcorrect. A short-long-short-long pattern can get almost as monotonous as all long or all short. The variation should feel natural, not metronomic.
+
+**Stein's example:** One of his students wrote naturally in a "mellifluous cadence" — it was her greatest fault. An unbroken mellifluous cadence, lovely for a few sentences, will put a reader to sleep if kept up.
+
+**Diagnosis prompt:**
+```
+Read a section aloud. Listen for:
+- Sections where sentences all feel the same length
+- The "mellifluous" trap — lovely but soporific
+- Places where the rhythm goes flat without you noticing
+
+| Section | Rhythm quality | Needs variation? |
+|---------|----------------|------------------|
+```
+
+**Fix template:**
+> Find the longest sentence in the flagged section. Follow it with one that's two to three words. Let the short sentence land like a window slam. Then let the rhythm settle. Don't make it a pattern — make it a surprise.
+
+---
+
+### Item D: Find the Next Weakest Scene
 
 **The instruction:** Once you've revised or cut the weakest scene, find your *new* weakest scene. Keep applying pressure.
 
