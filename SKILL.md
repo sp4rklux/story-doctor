@@ -1,6 +1,6 @@
 ---
 name: story-doctor
-description: Narrative review best practices and guidance — a curated reference of anti-patterns, craft conventions, and diagnostic methods for evaluating and revising fiction. Use when revising a manuscript, diagnosing why a story isn't working, stress-testing character, or evaluating scene-level craft. Runs structured antipattern checks, scene evaluation, motivation triage, and second-pass plot review.
+description: Narrative review and workshop — a curated reference of anti-patterns, craft conventions, and diagnostic methods for evaluating and revising fiction and film. Use when revising a manuscript, diagnosing why a story isn't working, stress-testing character, or evaluating scene-level craft. Also fires on: "workshop my story", "workshop my protagonist", "workshop my characters", "beat up my story", "stress-test my characters", "workshop my script", "workshop my film", or similar.
 ---
 
 # Story Doctor
@@ -9,12 +9,73 @@ A structured triage sequence for diagnosing what's broken in a story — and wha
 
 Drawing from multiple craft traditions, this skill organizes narrative problems into actionable categories: character, scene, conflict, motivation, and structure. Work through the sequence in order. Stop at the first diagnosis that applies — that's usually the root cause.
 
-## Craft Sources
+## Craft References
 
-- **Stein on Writing** — Sol Stein's diagnostic method (character antipatterns, motivation, scene evaluation)
-- **Gotham Writers** — Scene craft, dialogue, voice, point of view, narrative structure
+The references are organized by category, not by source author. Each file covers one topical area:
 
-See [references/](references/) for full source content organized by author.
+| File | Category |
+|------|----------|
+| `01-antipatterns-character.md` | Character-level problems |
+| `02-antipatterns-antagonist.md` | Antagonist problems |
+| `03-antipatterns-scene.md` | Scene-level problems |
+| `04-antipatterns-dialogue.md` | Dialogue problems |
+| `05-antipatterns-prose.md` | Prose-level problems |
+| `06-best-practices-character.md` | Character techniques |
+| `07-best-practices-structure.md` | Plot and structure techniques |
+| `08-best-practices-prose.md` | Prose and dialogue techniques |
+| `09-diagnostic-protocols.md` | Scene evaluation methods |
+| `10-diagnostic-protocols-motivation.md` | Motivation testing methods |
+
+Sources: *Stein on Writing* (Sol Stein), *Writing Fiction* (Gotham Writers Workshop)
+
+---
+
+## Workshop Mode
+
+*Triggered by: "workshop my story", "workshop my protagonist", "workshop my characters", "beat up my story", "stress-test my characters", "workshop my script", "workshop my film", or similar.*
+
+When a writer invokes workshop mode, skip the antipattern triage sequence and go directly to the interview. The goal is to surface gaps in how well the writer knows their characters — before those gaps become plot holes.
+
+### How to run
+
+Ask the writer questions one at a time. Don't move on until there's a real answer — not "I'll figure it out later." The goal is gaps, not confirmation. Each question is a diagnostic tool: a blank or a "I don't know" is a flag, not a failure.
+
+
+### The Question Categories
+
+**1. Surface facts**
+> *What do they look like? What do they own? What's their daily routine?*
+
+**2. Obsessions and avoidances**
+> *What can't they stop doing? What do they refuse to touch?*
+
+**3. Friction in scenes**
+> *In a tense moment, what do they do that they can't control? What do they reach for, say, or orbit around?*
+
+**4. Blind spots**
+> *What do they believe about themselves that's wrong? What would mortify them if someone else saw it?*
+
+**5. Values under pressure**
+> *When forced to choose between safety and truth — what do they reach for first? Between family and self? Between winning and surviving?*
+
+**6. Voice**
+> *Finish this sentence in the protagonist's voice: "I can't stand it when people —"*
+
+
+**7. Unfinished business**
+> *What did they want when the story started? What do they think they want at the midpoint? What do they actually need by the end?*
+
+
+### Closing the session
+
+After all seven categories, give the writer a summary:
+- What they answered confidently
+- What surfaced as gaps
+- The one thing they need to build before the next session
+
+Do not attempt to fix the gaps in the same session. Name them, record them, and move on.
+
+> *The writer should be able to answer all seven without looking at the manuscript. If they can't, the protagonist isn't fully built yet — and that's what the workshop is for.*
 
 ---
 
@@ -80,23 +141,7 @@ Generate:
 
 ### Step 3: Protagonist Grill
 
-**What it is:** A stress-test of how well the writer actually knows their protagonist. The goal is to surface assumptions, test texture, and find gaps before they become plot holes.
-
-**How to run:** Ask the writer questions about the protagonist. One at a time. Don't move on until there's a real answer — not "I'll figure it out later." The goal is gaps, not confirmation.
-
-**Question categories to cover:**
-
-1. **Surface facts** — What do they look like? What do they own? What's their daily routine?
-2. **Obsessions and avoidances** — What can't they stop doing? What do they refuse to touch?
-3. **Friction in scenes** — In a tense moment, what do they do that they can't control? What do they reach for, say, or orbit around?
-4. **Blind spots** — What does the protagonist believe about themselves that's wrong? What would mortify them if someone else saw it?
-5. **Values under pressure** — When forced to choose between X and Y, what do they reach for first? (e.g., safety vs. truth, family vs. self, winning vs. surviving)
-6. **Voice** — Finish this sentence in the protagonist's voice: *"I can't stand it when people —"*
-7. **Unfinished business** — What did they want when the story started? What do they think they want at the midpoint? What do they actually need by the end?
-
-**Verdict:** If any category produces "I don't know" or a blank, flag it. That's a gap. Don't fix it yet — just name it and move on.
-
-> The writer should be able to answer all of these without looking at the manuscript. If they can't, the protagonist isn't fully built yet — and that's what the grill is for.
+*See Workshop Mode above.* The seven question categories are the same — surface facts, obsessions and avoidances, friction in scenes, blind spots, values under pressure, voice, and unfinished business. Run the same interview. The Step 3 label is used when the triage sequence reaches character; Workshop Mode is used when the writer invokes it directly.
 
 ---
 
@@ -279,7 +324,13 @@ Signal: Red if any dimension is weak or absent.
 **Fix template:**
 > **The antagonist must earn their role.** They don't need to be powerful in a physical sense — they need to be the RIGHT obstacle. The thing standing between the protagonist and what they want must be something that can't be reasoned with, bargained with, or skipped.
 >
-> *For deeper plot repair: see references/stein.md and references/gotham.md for scene and structure guidance.*
+> The **Weak Conflict — The Story Has No Legs** section covers why real collision matters and how to test for it.
+
+The **references/07-best-practices-structure.md** covers scene chain, premise promise, and escalating stress.
+
+The **references/09-diagnostic-protocols.md** covers scene evaluation methods including the most/least memorable scene tests.
+
+The **references/10-diagnostic-protocols-motivation.md** covers the three-actions test, Chekhov's Gun, and the full motivation audit.
 
 ---
 
@@ -511,7 +562,7 @@ After the motivation audit, before the plot pass: cutting. Tightening the manusc
 2. **Dramaticize** — make the recounting a scene in itself, rendered in real time with tension and stakes
 3. **Compress further** — reduce a whole sequence of offscreen events to a single image or line that lands with force
 
-> *For clarification on rendering vs. summarizing: see references/stein.md and references/gotham.md.*
+> *See references/03-antipatterns-scene.md and references/05-antipatterns-prose.md for rendering vs. summarizing guidance.*
 
 **Diagnosis prompt:**
 ```
@@ -871,7 +922,7 @@ For each bog-down point:
 
 **The fix:** Mark the section and note it for Chapter 13 guidance. Do not attempt to fix in the revision session — this requires the deeper POV methodology in Chapter 13.
 
-> *See references/stein.md — Chapter 13 reference pending.*
+> *See references/05-antipatterns-prose.md — Author voice bleed section.*
 
 **Diagnosis prompt:**
 ```
@@ -893,7 +944,7 @@ Browse for passages where:
 > *"Would I go on to read the second scene?"*
 
 **If no:**
-> *"You haven't sparked the reader's curiosity. Review scene craft guidelines in references/gotham.md to fix the opening."*
+> *"You haven't sparked the reader's curiosity. Review references/03-antipatterns-scene.md and references/07-best-practices-structure.md to fix the opening."*
 
 **If yes:** Congrats. The first scene earns its place.
 

@@ -4,7 +4,7 @@ A curated reference of narrative anti-patterns, craft conventions, and diagnosti
 
 ## What It Is
 
-Story Doctor is a structured triage sequence for diagnosing what's broken in a story — and what to do about it. It draws from multiple craft traditions (Sol Stein's *Stein on Writing*, Gotham Writers' *Writing Fiction*, and others) to organize narrative problems into actionable categories: character, scene, conflict, motivation, and structure.
+Story Doctor is a structured triage sequence for diagnosing what's broken in a story — and what to do about it. It draws from multiple craft traditions to organize narrative problems into actionable categories: character, scene, conflict, motivation, and structure.
 
 ## The Sequence
 
@@ -24,16 +24,28 @@ Then: scene evaluation, motivation triage, second-pass plot review.
 
 ```
 story-doctor/
-├── SKILL.md          — triage sequence + prompts + fix templates
+├── SKILL.md              — triage sequence + prompts + fix templates
 └── references/
-    ├── stein.md      — Sol Stein craft methods
-    └── gotham.md     — Gotham Writers craft methods
+    ├── 01-antipatterns-character.md
+    ├── 02-antipatterns-antagonist.md
+    ├── 03-antipatterns-scene.md
+    ├── 04-antipatterns-dialogue.md
+    ├── 05-antipatterns-prose.md
+    ├── 06-best-practices-character.md
+    ├── 07-best-practices-structure.md
+    ├── 08-best-practices-prose.md
+    ├── 09-diagnostic-protocols.md
+    └── 10-diagnostic-protocols-motivation.md
 ```
+
+References are organized by category — antipatterns, best practices, and diagnostic protocols — not by source author.
 
 ## Sources
 
-- **Stein on Writing** — Sol Stein. Character antipatterns, motivation, scene evaluation.
-- **Writing Fiction** — Gotham Writers Workshop. Scene craft, dialogue, voice, point of view, structure, revision.
+These craft patterns are taught at every university writing program. We're curating the best of them. The actual patterns aren't copyrighted — what's copyrighted is each author's specific expression and examples. See the books for the full treatment:
+
+- [Stein on Writing](https://www.amazon.com/Stein-Writing-Sol/dp/0312240132?tag=storydoctor-20) on Amazon — Sol Stein
+- [Writing Fiction](https://www.amazon.com/Writing-Fiction-Gotham-Writers/dp/1585100546?tag=storydoctor-20) on Amazon — Gotham Writers Workshop
 
 ## Using With an AI Agent
 
